@@ -77,6 +77,10 @@ h3{
     background-color: #66BFBF;
     
 }
+.pro 
+  {
+    text-decoration: underline;
+  }
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
